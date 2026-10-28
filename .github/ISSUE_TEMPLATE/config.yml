@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Question or idea
+    url: https://github.com/projectcontinuum-org/continuum-platform-core/discussions
+    about: Ask a question or discuss an idea in Discussions.
+  - name: Documentation
+    url: https://docs.projectcontinuum.org
+    about: Guides, architecture and deployment docs.
+  - name: Security vulnerability
+    url: https://github.com/projectcontinuum-org/.github/blob/main/SECURITY.md
+    about: Please report security issues privately. Don't open a public issue.
